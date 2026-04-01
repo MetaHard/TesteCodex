@@ -1,16 +1,4 @@
-export interface Post {
-  id: string;
-  slug: string;
-  title: string;
-  excerpt: string;
-  category: string;
-  date: string;
-  readingTime: string;
-  image: string;
-  content: string;
-}
-
-export const posts: Post[] = [
+export const posts = [
   {
     id: '1',
     slug: 'como-aparecer-google-maps',
