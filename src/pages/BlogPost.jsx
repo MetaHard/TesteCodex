@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+﻿import React, { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { posts } from '../data/posts'
 import { ArrowLeft, Clock, Calendar, MessageSquare, Mail } from 'lucide-react'
@@ -53,7 +53,7 @@ const BlogPost = () => {
             <h3>Precisa de ajuda para aplicar isso no seu negócio?</h3>
             <p>Nossos especialistas podem desenhar uma estratégia personalizada para você.</p>
             <div className="post-cta-btns">
-              <a href="https://wa.me/5500000000000" className="btn btn-primary">
+              <a href="https://wa.me/5515996197691" className="btn btn-primary">
                 <MessageSquare size={18} style={{ marginRight: '8px' }} /> Falar no WhatsApp
               </a>
               <Link to="/contato" className="btn btn-outline">

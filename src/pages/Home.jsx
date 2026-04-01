@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import { Link } from 'react-router-dom'
 import { ArrowRight, Globe, MapPin, Users, Target, Zap, BarChart3 } from 'lucide-react'
 import { motion } from 'framer-motion'
@@ -55,7 +55,7 @@ const Home = () => {
               transition={{ delay: 0.3 }}
               className="hero-btns"
             >
-              <a href="https://wa.me/5500000000000" className="btn btn-primary">
+              <a href="https://wa.me/5515996197691" className="btn btn-primary">
                 Quero aparecer no Google
                 <ArrowRight size={18} style={{ marginLeft: '12px' }} />
               </a>
@@ -75,7 +75,7 @@ const Home = () => {
               <div className="google-badge">
                 <div className="google-icon">G</div>
                 <div>
-                  <div className="badge-title">Local SEO</div>
+                  <div className="badge-title">SEO Local</div>
                   <div className="badge-stars">★★★★★</div>
                 </div>
               </div>
@@ -165,7 +165,7 @@ const Home = () => {
               <h2>Pronto para aparecer onde seus clientes buscam?</h2>
               <p>Vamos transformar sua presença digital em uma máquina de vendas.</p>
               <div className="cta-btns">
-                <a href="https://wa.me/5500000000000" className="btn btn-primary">
+                <a href="https://wa.me/5515996197691" className="btn btn-primary">
                   Falar no WhatsApp
                 </a>
                 <Link to="/contato" className="btn btn-outline" style={{ color: 'white', borderColor: 'rgba(255,255,255,0.3)' }}>

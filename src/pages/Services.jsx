@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import { Link } from 'react-router-dom'
 import { Globe, MapPin, Users, Target, Zap, BarChart3, ArrowRight } from 'lucide-react'
 
@@ -131,7 +131,7 @@ const Services = () => {
             <h2>Não sabe por onde começar?</h2>
             <p className="mb-s4">Agende uma conversa gratuita de 15 minutos para avaliarmos sua presença digital.</p>
             <div className="cta-buttons">
-              <a href="https://wa.me/5500000000000" className="btn btn-primary">
+              <a href="https://wa.me/5515996197691" className="btn btn-primary">
                 Falar no WhatsApp
               </a>
               <Link to="/contato" className="btn btn-outline" style={{ marginLeft: '16px' }}>

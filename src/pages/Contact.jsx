@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import { MessageSquare, Mail, Send, CheckCircle2 } from 'lucide-react'
 
 const Contact = () => {
@@ -16,7 +16,7 @@ const Contact = () => {
         <div className="container">
           <div className="contact-grid">
             <div className="contact-blocks">
-              <a href="https://wa.me/5500000000000" className="contact-block-card wa-card">
+              <a href="https://wa.me/5515996197691" className="contact-block-card wa-card">
                 <div className="block-icon"><MessageSquare size={32} /></div>
                 <h3>WhatsApp</h3>
                 <p>Número direto para falar com um especialista agora mesmo.</p>

@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import { Link } from 'react-router-dom'
 import { Instagram, Linkedin, Facebook, MessageSquare, Mail } from 'lucide-react'
 
@@ -47,7 +47,7 @@ const Footer = () => {
             <h4>Contato</h4>
             <div className="contact-item">
               <MessageSquare size={16} />
-              <a href="https://wa.me/5500000000000">(11) 99999-9999</a>
+              <a href="https://wa.me/5515996197691">(15) 99619-7691</a>
             </div>
             <div className="contact-item">
               <Mail size={16} />

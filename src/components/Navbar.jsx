@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+﻿import React, { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { MessageSquare } from 'lucide-react'
 
@@ -40,7 +40,7 @@ const Navbar = () => {
               {link.name}
             </Link>
           ))}
-          <a href="https://wa.me/5500000000000" className="btn btn-primary btn-cta">
+          <a href="https://wa.me/5515996197691" className="btn btn-primary btn-cta">
             <MessageSquare size={18} style={{ marginRight: '8px' }} />
             Falar com especialista
           </a>

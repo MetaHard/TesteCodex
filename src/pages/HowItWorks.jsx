@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+﻿import React, { useState } from 'react'
 
 const HowItWorks = () => {
   const steps = [
@@ -105,7 +105,7 @@ const HowItWorks = () => {
           <div className="cta-highlight">
             <h2>Pronto para começar?</h2>
             <p className="mb-s4">Vamos analisar sua presença digital hoje mesmo e traçar o melhor caminho.</p>
-            <a href="https://wa.me/5500000000000" className="btn btn-primary">Agendar conversa gratuita</a>
+            <a href="https://wa.me/5515996197691" className="btn btn-primary">Agendar conversa gratuita</a>
           </div>
         </div>
       </section>
