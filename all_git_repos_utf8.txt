@@ -1,0 +1,4 @@
+﻿C:\Users\italo\Downloads\Projetos\EventSpot\EventSpotMobile\.git
+C:\Users\italo\Downloads\Projetos\palavra-viva\.git
+C:\Users\italo\Downloads\Projetos\Táali\.git
+C:\Users\italo\Downloads\Projetos\Táali\.claude\worktrees\unruffled-torvalds\.git
