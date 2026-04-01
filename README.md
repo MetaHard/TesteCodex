@@ -1,30 +1,39 @@
-# React + TypeScript + Vite
+# Agência Digital Arizon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site profissional da Agência Arizon, especializada em presença digital estratégica para negócios locais.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite + React**
+- **Vanilla CSS** (Design System consolidado)
+- **Framer Motion** (Animações)
+- **Lucide React** (Ícones)
+- **React Router** (Navegação multi-página)
 
-## Expanding the ESLint configuration
+## 🏗️ Estrutura do Projeto
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- `/src/components`: Componentes reutilizáveis (Navbar, Footer, etc.)
+- `/src/pages`: Páginas do site (Home, Serviços, Metodologia, Blog, Contato)
+- `/src/data`: Dados dinâmicos do Blog
+- `/src/index.css`: Design System e estilos globais
 
-- Configure the top-level `parserOptions` property like this:
+## 🛠️ Como rodar localmente
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   npm install --legacy-peer-deps
+   ```
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🌐 Deploy (Vercel)
+
+Este projeto está configurado para deploy automático na Vercel. 
+
+**Importante:** Se o projeto estiver em uma subpasta (ex: `TesteCodex`), configure o **Root Directory** nas configurações da Vercel para o nome da pasta correta.
+
+---
+*Desenvolvido com foco em performance e conversão para Negócios Locais.*
